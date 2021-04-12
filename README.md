@@ -23,7 +23,7 @@
      │       ├── Spat_Feature.py           # derive spatial statistics features
      │       ├── SHARP threshold.py        # calculating thresholds of SHARP parameters, at pixel level
      │       └── SHARP_PIL.py              # calculating SHARP parameters at PIL
-     │   ├── Paper_Figure                  # jupyter notebooks plotting figures used in paper
+     │   └── Paper_Figure                  # jupyter notebooks plotting figures used in paper
      ├── data                              # data of the derived features, GOES dataset and quantile thresholds
      │   ├── SHARP_PIL                     # data of SHARP parameters along PIL
      │   ├── Spatial_Feature               # data of spatial statistics features
