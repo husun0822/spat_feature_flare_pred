@@ -2,7 +2,7 @@
 
 Structure of files:
 
-root
+  .
   ├── Bflare_data                       # an example file of a B flare from HARP 377
   ├── code
   │   ├── Analysis_Code (R)             # fit prediction model, and post-hoc analysis
