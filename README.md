@@ -11,15 +11,3 @@
      │   ├── Paper_Figure                  # plot figures used in paper
      ├── data                              # data of the derived features, GOES dataset and quantile thresholds
      └── Mflare_data                       # an example file of an M flare from HARP 377
-
-
-### A typical top-level directory layout
-
-    .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
